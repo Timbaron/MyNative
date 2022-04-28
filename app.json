@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "My first React Native app using expo",
+    "githubUrl": "https://github.com/Timbaron/MyNative.git"
   }
 }
